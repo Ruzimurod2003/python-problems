@@ -1,0 +1,10 @@
+a=23856
+b=a/100
+c=a/1000
+d=a//25
+k=a%25
+print("b=",b ,"ts" )
+print("c=",c ,"t" )
+print("a=",a ,"kg" )
+print("d=",d ,"dona" )
+print("k=",k ,"qoldiq" )
